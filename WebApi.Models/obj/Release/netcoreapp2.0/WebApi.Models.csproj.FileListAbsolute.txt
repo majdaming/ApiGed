@@ -1,0 +1,9 @@
+C:\Users\msiala\Documents\Visual Studio 2017\Projects\WebApi\WebApi.Models\bin\Release\netcoreapp2.0\WebApi.Models.deps.json
+C:\Users\msiala\Documents\Visual Studio 2017\Projects\WebApi\WebApi.Models\bin\Release\netcoreapp2.0\WebApi.Models.dll
+C:\Users\msiala\Documents\Visual Studio 2017\Projects\WebApi\WebApi.Models\bin\Release\netcoreapp2.0\WebApi.Models.pdb
+C:\Users\msiala\Documents\Visual Studio 2017\Projects\WebApi\WebApi.Models\obj\Release\netcoreapp2.0\WebApi.Models.csprojResolveAssemblyReference.cache
+C:\Users\msiala\Documents\Visual Studio 2017\Projects\WebApi\WebApi.Models\obj\Release\netcoreapp2.0\WebApi.Models.csproj.CoreCompileInputs.cache
+C:\Users\msiala\Documents\Visual Studio 2017\Projects\WebApi\WebApi.Models\obj\Release\netcoreapp2.0\WebApi.Models.AssemblyInfoInputs.cache
+C:\Users\msiala\Documents\Visual Studio 2017\Projects\WebApi\WebApi.Models\obj\Release\netcoreapp2.0\WebApi.Models.AssemblyInfo.cs
+C:\Users\msiala\Documents\Visual Studio 2017\Projects\WebApi\WebApi.Models\obj\Release\netcoreapp2.0\WebApi.Models.dll
+C:\Users\msiala\Documents\Visual Studio 2017\Projects\WebApi\WebApi.Models\obj\Release\netcoreapp2.0\WebApi.Models.pdb
